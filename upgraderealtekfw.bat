@@ -1,0 +1,1 @@
+tftp -i 192.168.1.6 put d:\temp\fw.bin
